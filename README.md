@@ -1,10 +1,11 @@
 # AI for dating stars: a benchmarking study for gyrochronology
 
-This repo contains data and code accompaning the paper, INCLUIR PAPER. It includes code for running all regression models developed for each Benchmark.
-
 <p align="center">
   <img src="./gif/stars.gif" alt="AI for dating stars: a benchmarking study for gyrochronology" title="AI for dating stars: a benchmarking study for gyrochronology" width="652" zoom="343" align="center" />
 </p>
+
+This repository contains data and code accompaning our paper: [AI for dating stars: a benchmarking study for gyrochronology](https://gram.web.uah.es/data/publications/ai4space-cvpr21w-moya.pdf). It includes code for running all regression models developed for each of the Benchmarks described in the paper.
+
 
 ### Content
 
